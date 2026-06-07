@@ -9,8 +9,7 @@ Daily Python learning journey!
 - Projects
 
 ## 🎯 Goal
-Learning Python for 
-Django + Cloud Engineering
+Learning Python for Cloud Engineering
 
 ## 📅 Started
 June 2026
